@@ -12,15 +12,7 @@ print(banner)
 
 url = input(">>>Target Adress: ")
 
-islemler = """ 
--------------------------------------------------------------
-Enter the treatment amount (Max:5): 
--------------------------------------------------------------
-"""
-
-print(islemler)
-
-thread = input(">>>ATTACK NUMBER: ")
+thread = input(">>>Enter the treatment amount (Max:5):  ")
 
 if thread == "1":
 
