@@ -6,7 +6,7 @@ banner = """
  ┌─┬┬─┬┬┤└┤└┬─┤─┤─┤
  ││││┼│┌┤┌┤││┴┤┌┤┌┘
  └┴─┴─┴┘└─┴┴┴─┴┘└┘     
- This tool made by n0rtheff.                      
+ This tool is made by n0rtheff.                      
 """
 print(banner)
 
